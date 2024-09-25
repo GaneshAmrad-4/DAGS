@@ -1,4 +1,4 @@
-Problem Summary
+Problem Summary:
 The task is to calculate the longest directed path in a Directed Acyclic Graph (DAG) starting from a given vertex. The implementation was done using Java, leveraging topological sorting to ensure a valid order of processing the vertices.
 
 1. Did you fully read and understand the problem requirements?
